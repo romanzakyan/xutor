@@ -245,11 +245,11 @@ $( window ).resize(function() {
 });
 
 if($( window ).width() < 1260 && $( window ).width() > 960){
-	$('.div_1').css('height', '450px');
+	$('.div_1').css('height', '350px');
 }else if($( window ).width() <= 960 && $( window ).width() > 450){
-	$('.div_1').css('height', '450px');
+	$('.div_1').css('height', '350px');
 }else{
-	$('.div_1').css('height', '450px');
+	$('.div_1').css('height', '350px');
 }
 
 $('.div_2').css('height', $('.div_1').css('height'));
