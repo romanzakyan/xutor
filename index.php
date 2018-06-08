@@ -1459,7 +1459,7 @@
                                         </h2>
                                         <div class="sc_section_content_wrap height-330">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3"
-                                                 style="margin-top: 9.8rem;margin-bottom: -25rem;">
+                                                 style="margin-top: 9.8rem;margin-bottom: -35rem;">
                                                 <div class="column-1_3 col1 sc_column_item sc_column_item_1 odd first height-530 div_1" style="height:530px">
                                                     <figure class="sc_image  sc_image_shape_round"
                                                             style="max-width: 196px; margin: auto;"><img
