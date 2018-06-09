@@ -1,16 +1,13 @@
 ﻿<!DOCTYPE html>
 <html lang="en-US" class="scheme_original">
 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8"/><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
 <head>
-    <title>Homepage 2 &#8211; Dairy Farm</title>
+    <title>Dairy Farm</title>
 
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="Responsive Image Gallery with jQuery"/>
-    <meta name="keywords" content="jquery, carousel, image gallery, slider, responsive, flexible, fluid, resize, css3"/>
-    <meta name="author" content="Codrops"/>
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="style/demo.css"/>
 
@@ -41,22 +38,6 @@
                     </div>
                 </div>
             </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
@@ -1458,8 +1439,8 @@
                                             Наша Команда<span></span>
                                         </h2>
                                         <div class="sc_section_content_wrap height-330">
-                                            <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3"
-                                                 style="margin-top: 9.8rem;margin-bottom: -24rem;">
+                                            <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3 correction-margin"
+                                                 style="margin-bottom: -19rem;">
                                                 <div class="column-1_3 sc_column_item sc_column_item_1 odd first height-330 div_1" style="height:330px">
                                                     <figure class="sc_image  sc_image_shape_round"
                                                             style="max-width: 196px; margin: auto;"><img
@@ -1472,7 +1453,7 @@
 
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-12 b_0" style="bottom: 0; position: absolute;">
+                                                    <div class="col-md-12 b_0">
 
                                                         <div class="clearfix"></div>
                                                     </div>
@@ -1489,7 +1470,7 @@
 
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-12 b_1" style="bottom: 0; position: absolute;">
+                                                    <div class="col-md-12 b_1">
 
                                                         <div class="clearfix"></div>
                                                     </div>
@@ -1507,7 +1488,7 @@
 
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-12 b_2" style="bottom: 0; position: absolute;">
+                                                    <div class="col-md-12">
 
                                                         <div class="clearfix"></div>
                                                     </div>
@@ -1688,7 +1669,7 @@
 
                                                         </div>
                                                     </div>
-													<div class="col-md-12 b_0" style="bottom: 0; position: absolute;">
+													<div class="col-md-12">
 													<p>
 													Цена 1 000р/кг
 													
@@ -1714,7 +1695,7 @@
 
                                                         </div>
                                                     </div>
-													<div class="col-md-12 b_1" style="bottom: 0; position: absolute;">
+													<div class="col-md-12">
 													<p>
 													Цена 1 600р/кг
 													
@@ -1739,7 +1720,7 @@
 
                                                         </div>
                                                     </div>
-													<div class="col-md-12 b_2" style="bottom: 0; position: absolute;">
+													<div class="col-md-12">
 													<p>
 													Цена 2 600р/кг
 													
@@ -1838,165 +1819,6 @@
                     </div>
                 </div>
                 <div class="vc_row-full-width"></div>
-                <!--<div class="vc_row wpb_row vc_row-fluid">-->
-                <!--<div class="wpb_column vc_column_container vc_col-sm-12">-->
-                <!--<div class="vc_column-inner ">-->
-                <!--<div class="wpb_wrapper">-->
-                <!--<div class="sc_section margin_top_huge"-->
-                <!--data-animation="animated fadeInUp normal">-->
-                <!--<div class="sc_section_inner"><h2-->
-                <!--class="sc_section_title sc_item_title sc_item_title_without_descr">-->
-                <!--НАШ МАГАЗИН<span></span></h2>-->
-                <!--<div class="sc_section_content_wrap">-->
-                <!--<div class="woocommerce columns-4 ">-->
-                <!--<ul class="products">-->
-                <!--<li class="post-471 product type-product status-publish has-post-thumbnail product_cat-cheese product_tag-cheese product_tag-cream product_tag-italian product_tag-organic first instock shipping-taxable purchasable product-type-variable has-default-attributes has-children">-->
-                <!--<div class="post_item_wrap">-->
-                <!--<div class="post_featured">-->
-                <!--<div class="post_thumb">-->
-                <!--<a class="hover_icon hover_icon_link">-->
-                <!--<img width="300" height="300"-->
-                <!--src="../wp-content/uploads/2016/09/product-1-300x300.jpg"-->
-                <!--class="attachment-shop_catalog size-shop_catalog wp-post-image"-->
-                <!--alt=""-->
-                <!--srcset="//dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-1-300x300.jpg 300w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-1-150x150.jpg 150w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-1-180x180.jpg 180w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-1.jpg 510w"-->
-                <!--sizes="(max-width: 300px) 100vw, 300px"/>-->
-                <!--</a>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--<div class="post_content">-->
-                <!--<h2 class="woocommerce-loop-product__title">-->
-                <!--Pecorino Romano</h2>-->
-                <!--<span class="price"><span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>18.90</span> &ndash; <span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>38.00</span></span>-->
-                <!--<a rel="nofollow" data-quantity="1"-->
-                <!--data-product_id="471" data-product_sku=""-->
-                <!--class="button product_type_variable add_to_cart_button">В-->
-                <!--КОРЗИНУ</a></div>-->
-                <!--</div>-->
-                <!--</li>-->
-                <!--<li class="post-458 product type-product status-publish has-post-thumbnail product_cat-milk product_tag-buttery product_tag-italian product_tag-taste  instock shipping-taxable purchasable product-type-variable has-default-attributes has-children">-->
-                <!--<div class="post_item_wrap">-->
-                <!--<div class="post_featured">-->
-                <!--<div class="post_thumb">-->
-                <!--<a class="hover_icon hover_icon_link">-->
-                <!--<img width="300" height="300"-->
-                <!--src="../wp-content/uploads/2016/09/product-2-300x300.jpg"-->
-                <!--class="attachment-shop_catalog size-shop_catalog wp-post-image"-->
-                <!--alt=""-->
-                <!--srcset="//dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-2-300x300.jpg 300w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-2-150x150.jpg 150w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-2-768x768.jpg 768w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-2-180x180.jpg 180w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-2-600x600.jpg 600w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-2.jpg 900w"-->
-                <!--sizes="(max-width: 300px) 100vw, 300px"/>-->
-                <!--</a>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--<div class="post_content">-->
-                <!--<h2 class="woocommerce-loop-product__title">-->
-                <!--Evaporated Milk</h2>-->
-                <!--<span class="price"><span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>4.90</span> &ndash; <span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>8.99</span></span>-->
-                <!--<a rel="nofollow" data-quantity="1"-->
-                <!--data-product_id="458" data-product_sku=""-->
-                <!--class="button product_type_variable add_to_cart_button">В-->
-                <!--КОРЗИНУ</a></div>-->
-                <!--</div>-->
-                <!--</li>-->
-                <!--<li class="post-448 product type-product status-publish has-post-thumbnail product_cat-butter product_tag-cream product_tag-italian  instock shipping-taxable purchasable product-type-variable has-default-attributes has-children">-->
-                <!--<div class="post_item_wrap">-->
-                <!--<div class="post_featured">-->
-                <!--<div class="post_thumb">-->
-                <!--<a class="hover_icon hover_icon_link">-->
-                <!--<img width="300" height="300"-->
-                <!--src="../wp-content/uploads/2016/09/product-3-300x300.jpg"-->
-                <!--class="attachment-shop_catalog size-shop_catalog wp-post-image"-->
-                <!--alt=""-->
-                <!--srcset="//dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-3-300x300.jpg 300w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-3-150x150.jpg 150w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-3-768x768.jpg 768w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-3-180x180.jpg 180w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-3-600x600.jpg 600w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-3.jpg 900w"-->
-                <!--sizes="(max-width: 300px) 100vw, 300px"/>-->
-                <!--</a>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--<div class="post_content">-->
-                <!--<h2 class="woocommerce-loop-product__title">-->
-                <!--Farm Sour Cream</h2>-->
-                <!--<span class="price"><span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>12.50</span> &ndash; <span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>29.00</span></span>-->
-                <!--<a rel="nofollow" data-quantity="1"-->
-                <!--data-product_id="448" data-product_sku=""-->
-                <!--class="button product_type_variable add_to_cart_button">В-->
-                <!--КОРЗИНУ</a></div>-->
-                <!--</div>-->
-                <!--</li>-->
-                <!--<li class="post-438 product type-product status-publish has-post-thumbnail product_cat-ice-cream product_tag-cheese product_tag-cream product_tag-organic last instock shipping-taxable purchasable product-type-variable has-default-attributes has-children">-->
-                <!--<div class="post_item_wrap">-->
-                <!--<div class="post_featured">-->
-                <!--<div class="post_thumb">-->
-                <!--<a class="hover_icon hover_icon_link">-->
-                <!--<img width="300" height="300"-->
-                <!--src="../wp-content/uploads/2016/09/product-4-300x300.jpg"-->
-                <!--class="attachment-shop_catalog size-shop_catalog wp-post-image"-->
-                <!--alt=""-->
-                <!--srcset="//dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-4-300x300.jpg 300w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-4-150x150.jpg 150w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-4-768x768.jpg 768w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-4-180x180.jpg 180w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-4-600x600.jpg 600w, //dairy-farm.ancorathemes.com/wp-content/uploads/2016/09/product-4.jpg 900w"-->
-                <!--sizes="(max-width: 300px) 100vw, 300px"/>-->
-                <!--</a>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--<div class="post_content">-->
-                <!--<h2 class="woocommerce-loop-product__title">-->
-                <!--Ricotta Salata</h2>-->
-                <!--<span class="price"><span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>15.99</span> &ndash; <span-->
-                <!--class="woocommerce-Price-amount amount"><span-->
-                <!--class="woocommerce-Price-currencySymbol">&#36;</span>68.99</span></span>-->
-                <!--<a rel="nofollow" data-quantity="1"-->
-                <!--data-product_id="438" data-product_sku=""-->
-                <!--class="button product_type_variable add_to_cart_button">В-->
-                <!--КОРЗИНУ</a></div>-->
-                <!--</div>-->
-                <!--</li>-->
-                <!--</ul>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--<div class="vc_row wpb_row vc_row-fluid">-->
-                <!--<div class="wpb_column vc_column_container vc_col-sm-12">-->
-                <!--<div class="vc_column-inner ">-->
-                <!--<div class="wpb_wrapper">-->
-                <!--<div class="columns_wrap sc_columns columns_nofluid sc_columns_count_12 margin_top_small margin_bottom_huge"-->
-                <!--data-animation="animated fadeInUp normal">-->
-                <!--<div class="column-7_12 sc_column_item sc_column_item_1 odd first span_7">-->
-                <!--<div class="sc_intro" style="background: url(img/intro1.jpg);">-->
-                <!--<div class="sc_intro_inner  sc_intro_style_2">-->
-                <!--<div class="sc_intro_content"><h2 class="sc_intro_title">-->
-                <!--ИДЕИ НА<br>ЗАВТРАК</h2>-->
-                <!--<div class="sc_intro_descr">Heat up your mornings with a-->
-                <!--bowl of warm cereal. Whether you prefer oatmeal,-->
-                <!--farina, or any other kind of porridge, make your-->
-                <!--instant version a bit creamier!-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-                <!--</div>-->
-
 
                 <div id='scr5' class="container">
                     <h2 class="sc_section_title sc_item_title sc_item_title_without_descr " style="font-family: Oswald">
@@ -2486,5 +2308,4 @@
 
 </body>
 
-<!-- Mirrored from dairy-farm.ancorathemes.com/homepage-2/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Mar 2018 13:44:55 GMT -->
 </html>
