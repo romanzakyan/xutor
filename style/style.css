@@ -93,3 +93,7 @@
 	border-radius: 10px;
 	opacity:0.7;
 }
+
+.div_1, .div_2, .div_3{
+	margin: 40px 0;
+}
