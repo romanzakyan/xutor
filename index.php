@@ -1715,7 +1715,7 @@
                                                             src="images/sliderimage/a.13.jpg" alt=""/></figure>
                                                     <h4 class="sc_title sc_title_regular"
                                                         style="margin-top: 2.3rem;"><a
-                                                            style="font-family: Oswald">Дворянский сыр</a></br></h4>
+                                                            style="font-family: Oswald">Дворянский сыр</a></br></br></h4>
                                                     <div class="wpb_text_column wpb_content_element ">
                                                         <div class="wpb_wrapper">
                                                             <p class="justify-text" style="font-family: Oswald">
