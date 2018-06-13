@@ -238,7 +238,7 @@ $( window ).resize(function() {
 	}else if($( window ).width() <= 960 && $( window ).width() > 450){
 		$('.div_1').css('height', '700px');
 	}else{
-		$('.div_1').css('height', '700px');
+		$('.div_1').css('height', '750px');
 	}
 	
 	$('.div_2').css('height', $('.
