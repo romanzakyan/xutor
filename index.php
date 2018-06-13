@@ -1655,7 +1655,7 @@
                                         <div class="sc_section_content_wrap height-720">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3"
                                                  style="margin-top: -0.8rem;margin-bottom: 6rem;">
-                                                <div class="column-1_3 sc_column_item sc_column_item_1 odd first height-620 div_1" style="height:530px">
+                                                <div class="column-1_3 sc_column_item sc_column_item_1 odd first height-620 div_1" style="height:700px">
                                                     <figure class="sc_image  sc_image_shape_round"
                                                             style="max-width: 196px; margin: auto;"><img
                                                             src="images/sliderimage/a.422.jpg" alt=""/></figure>
@@ -1685,7 +1685,7 @@
 													<a href="#" price="1000" class="remove_btn btn btn-danger fa fa-times" style="display:none; background-color: #d9534f;"></a>
 													</div>
                                                 </div>
-                                                <div class="column-1_3 sc_column_item sc_column_item_2 even height-620 div_2">
+                                                <div class="column-1_3 sc_column_item sc_column_item_2 even height-620 div_2" style="height:700px">
                                                     <figure class="sc_image  sc_image_shape_round"
                                                             style="max-width: 196px; margin: auto;"><img
                                                             src="images/sliderimage/a.41.jpg" alt=""/></figure>
@@ -1711,7 +1711,7 @@
 													<a href="#" price="1600" class="remove_btn btn btn-danger fa fa-times" style="display:none; background-color: #d9534f;"></a>
 													</div>
                                                 </div>
-                                                <div class="column-1_3 sc_column_item sc_column_item_3 odd height-620 div_3">
+                                                <div class="column-1_3 sc_column_item sc_column_item_3 odd height-620 div_3" style="height:700px">
                                                     <figure class="sc_image  sc_image_shape_round"
                                                             style="max-width: 196px; margin: auto;"><img
                                                             src="images/sliderimage/a.13.jpg" alt=""/></figure>
