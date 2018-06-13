@@ -234,14 +234,18 @@ $('#name').focus(function() {
 
 $( window ).resize(function() {
 	if($( window ).width() < 1260 && $( window ).width() > 960){
-		$('.div_1').css('height', '600px');
+		$('.div_1').css('height', '700px');
 	}else if($( window ).width() <= 960 && $( window ).width() > 450){
 		$('.div_1').css('height', '700px');
 	}else{
-		$('.div_1').css('height', '600px');
+		$('.div_1').css('height', '700px');
 	}
 	
-	$('.div_2').css('height', $('.div_1').css('height'));
+	$('.div_2').css('height', $('.
+				    
+				    
+				    
+				    ').css('height'));
 	$('.div_3').css('height', $('.div_1').css('height'));	
 	$('.b_0').css('position', 'absolute');
 	$('.b_1').css('position', 'absolute');
