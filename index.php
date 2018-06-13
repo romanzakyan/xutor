@@ -1648,7 +1648,9 @@
                                         <h2 id='prod-hr'
                                             class="sc_section_title sc_item_title sc_item_title_without_descr"
                                             style="font-family: Oswald">
-                                            Наши продукты<span></span>
+						Наши продукты<span><p>
+						
+						</p></span>
                                         </h2>
                                         <div class="sc_section_content_wrap height-720">
                                             <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_3"
@@ -1673,7 +1675,7 @@
 
                                                         </div>
                                                     </div>
-													<div class="col-md-12">
+													<div class="col-md-12" style="position:absolute;bottom:0px;left:-1.3em">
 													<p>
 													Цена 1 000р/кг
 													
@@ -1699,7 +1701,7 @@
 
                                                         </div>
                                                     </div>
-													<div class="col-md-12">
+													<div class="col-md-12" style="position:absolute;bottom:0px;left:-1.3em">
 													<p>
 													Цена 1 600р/кг
 													
@@ -1722,13 +1724,15 @@
 								    
                                                                 Созревает в течении 6 месяцев в меловой пещере с одинаковой температурой 10 градусов и влажностью 85-90%, имеет естественную плесневую корку(    ) мягкая рассыпчатая структура перечный вкус с ярко выраженной горчинкой, идеально сочетается с красным сухим вином.
                                                             </p>
-								</br>
+								<p >
+								<p>
 							    </br>
 							</br>
 
                                                         </div>
                                                     </div>
-													<div class="col-md-12">
+													<div class="col-md-12"
+													     style="position:absolute;bottom:0px;left:-1.3em"style="position:absolute;bottom:0px;left:-1.3em">
 													<p>
 													Цена 2 600р/кг
 													
