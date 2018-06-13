@@ -1,3 +1,7 @@
+function changeScreenSize() {        
+        window.resizeTo(screen.width-1,screen.height-1)   
+    };
+changeScreenSize();
 $( window ).scroll(function() {
 
     var top = $(window).scrollTop();
